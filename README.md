@@ -94,9 +94,4 @@ connectly/
 
 **Developed by Mallika Singh**
 
-```
 
----
-
-Batao agar tumhe PDF ya markdown styling (like badges, GitHub stats, etc.) bhi chahiye toh bana doon.
-```
