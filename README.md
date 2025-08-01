@@ -1,13 +1,4 @@
-Sahi pakde ho Mallika! 😄
-Tumhare project ka naam already **"Connectly"** hai — toh uske baad **“– A Zoom Clone Built with React”** likhna thoda **extra** lagta hai, especially agar tum simple aur clean README chah rahi ho.
 
-Chalo, usko hata dete hain.
-
----
-
-### ✅ Final, cleaned-up `README.md` (simple and neat):
-
-````markdown
 # 📞 Connectly
 
 **Connectly** is a video conferencing web application that allows users to host and join virtual meetings with real-time video/audio, chat, and screen sharing.
