@@ -21,7 +21,7 @@
 - **Frontend**: React, Context API, CSS
 - **Backend**: Node.js, Express.js
 - **Communication**: WebRTC, Socket.io
-- **Database**: MongoDB *(optional, for session or user data)*
+- **Database**: MongoDB 
 
 ---
 
