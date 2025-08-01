@@ -85,10 +85,10 @@ connectly/
 
 ## 📌 Future Improvements
 
-* User authentication
-* Mute/unmute mic and stop/start video buttons
-* Meeting timer and logs
-* Dashboard for previous meetings
+- Scheduled meetings with calendar integration
+- Virtual background or background blur
+- Meeting analytics (duration, users, etc.)
+- Real-time participant count and controls for host (mute all, remove user)
 
 ---
 
